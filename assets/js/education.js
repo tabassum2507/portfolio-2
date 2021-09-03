@@ -40,7 +40,7 @@ const moocscards = [
     moocLink: "https://www.udemy.com/course/bootstrap-4-tutorials/",
   },
   {
-    title: "Intro to React",
+    title: "Web Programming with Python and JavaScript",
     cardImage: "assets/images/education-page/EdX.png",
     moocLink: "https://www.edx.org/learn/reactjs",
   },
@@ -175,24 +175,24 @@ document.addEventListener("DOMContentLoaded", showCards1);
 
 const timeline = document.querySelector(".timeline-container");
 const timelinesection = [
+  // {
+  //   heading: "SRM University",
+  //   image: "assets/images/education-page/edTimeline1.png",
+  //   subheading: "Masters of Science, Computer Science & Engineering, (2021-2022)",
+  //   description: "<li>Top 1% in the department</li><li>Best undergraduate Reseracher</li><li>Betsy Schumacker Woman</li><li>Athlete of the Year Award</li>",
+  // },
+
   {
-    heading: "Columbia University",
-    image: "assets/images/education-page/edTimeline1.png",
-    subheading: "Masters of Science, Computer Science & Engineering, (2021-2022)",
+    heading: "SRM University",
+    image: "assets/images/education-page/srm.png",
+    subheading: "Bachelors of Technology, Electronics and Communication, (2015-2019)",
     description: "<li>Top 1% in the department</li><li>Best undergraduate Reseracher</li><li>Betsy Schumacker Woman</li><li>Athlete of the Year Award</li>",
   },
 
   {
-    heading: "Massachusetts Institute of Technology",
-    image: "assets/images/education-page/edTimeline2.png",
-    subheading: "Bachelors of Science, Computer Science & Engineering, (2017-2021)",
-    description: "<li>Top 1% in the department</li><li>Best undergraduate Reseracher</li><li>Betsy Schumacker Woman</li><li>Athlete of the Year Award</li>",
-  },
-
-  {
-    heading: "Delhi Public School",
-    image: "assets/images/education-page/edTimeline3.png",
-    subheading: "High School, (2013-2017)",
+    heading: "Kendriya Vidyalaya",
+    image: "assets/images/education-page/KVS1.png",
+    subheading: "High School, (2012-2015)",
     description: "<li>Top 1% in the department</li><li>Best undergraduate Reseracher</li><li>Betsy Schumacker Woman</li><li>Athlete of the Year Award</li>",
   },
 

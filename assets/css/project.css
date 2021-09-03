@@ -1,7 +1,7 @@
 html[data-theme='light'] {
-    --bg-col: #fafafa;
+    --bg-col: #fff;
     --shadow1: rgba(0, 0, 0, 0.3);
-    --shadow2: rgba(0, 0, 0, 0.2);
+    --shadow2: rgba(0, 0, 0, 0.87);
     --text: #191919;
     --neu-light: white;
     --neu-dark: #c3c3c3;
