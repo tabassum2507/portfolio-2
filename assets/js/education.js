@@ -192,8 +192,8 @@ const timelinesection = [
   {
     heading: "Kendriya Vidyalaya",
     image: "assets/images/education-page/KVS1.png",
-    subheading: "High School, (2012-2015)",
-    // description: "<li>Top 1% in the department</li><li>Best undergraduate Reseracher</li><li>Betsy Schumacker Woman</li><li>Athlete of the Year Award</li>",
+    subheading: "High School, (2013-2015)",
+    description: "<li>Top 1% in the department</li><li>School Captain</li><li>NATIONAL CHILDREN'S SCIENCE CONGRESS Winners- Gurgaon Region(2014, 2015)</li>",
   },
 
 
