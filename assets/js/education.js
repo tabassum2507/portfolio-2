@@ -5,13 +5,13 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Data Science",
-    cardImage: "assets/images/education-page/coursera1.png",
-    moocLink: "https://www.coursera.org/browse/data-science",
+    title: "JavaScript Algorithms and Data Structures",
+    cardImage: "assets/images/education-page/fcc.png",
+    moocLink: "https://www.freecodecamp.org/certification/fccb9534b8b-e9c6-4b38-83e0-22a1dbf521b2/javascript-algorithms-and-data-structures",
   },
   {
-    title: "Cryptography",
-    cardImage: "assets/images/education-page/udemy.png",
+    title: "Front End Development Libraries",
+    cardImage: "assets/images/education-page/fcc.png",
     moocLink: "https://www.udemy.com/course/cryptography-for-beginners/",
   },
   {
@@ -183,10 +183,17 @@ const timelinesection = [
   // },
 
   {
+    heading: "Crio.Do",
+    image: "assets/images/education-page/Crio.png",
+    subheading: "Fellowship in FullStack Development, (2022-2023)",
+    description: "<li>Top 5% in the department</li><li>Best academic record</li>",
+  },
+
+  {
     heading: "SRM University",
     image: "assets/images/education-page/srm.png",
     subheading: "Bachelors of Technology, Electronics and Communication, (2015-2019)",
-    // description: "<li>Top 1% in the department</li><li>Best undergraduate Reseracher</li><li>Betsy Schumacker Woman</li><li>Athlete of the Year Award</li>",
+    description: "<li>Top 5% in the department</li><li>Best academic record</li>",
   },
 
   {
