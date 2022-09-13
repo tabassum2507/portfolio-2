@@ -15,7 +15,7 @@ const projects = [
   },
   {
     title: "Bloggram",
-    cardImage: "assets/images/project-page/sunny.jpg",
+    cardImage: "assets/images/project-page/bloggarm.jpg",
     description: "Bogging app",
     tagimg: "",
     Previewlink: "",
@@ -39,7 +39,7 @@ const projects = [
   },
   {
     title: "Pond Chat- React, Sass, firebase Texting app",
-    cardImage: "assets/images/project-page/battery.png",
+    cardImage: "assets/images/project-page/pondchat.jpg",
     description: "Built battery life calculator using Python.",
     tagimg: "https://camo.githubusercontent.com/888e388801f947dec7c3d843942c277af25fe2b1aed1821542c4e711f210312a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67",
     Previewlink: "",
@@ -54,7 +54,16 @@ const projects = [
     Githublink: "https://github.com/tabassum2507/Netflix-clone",
   },
   {
-    title: "crypto-tracker",
+    title: "CHIM CHIM- React, MUI social media UI",
+    cardImage: "assets/images/project-page/chim.jpg",
+    description:
+      "Minesweeper Game built using python Object Oriented Programming.",
+    tagimg: "",
+    Previewlink: "https://csb-ypg4zn-1w1zi0rpn-tabassum2507.vercel.app/",
+    Githublink: "https://github.com/tabassum2507/MUI-react-page",
+  },
+  {
+    title: "Crypto-tracker",
     cardImage: "assets/images/project-page/crypto.png",
     description: "",
     tagimg: "https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png",
@@ -77,15 +86,6 @@ const projects = [
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://mochi-coffee-shop-landing-page11-2o1kmasz2-tabassum2507.vercel.app/",
     Githublink: "https://github.com/tabassum2507/mochi-coffee-shop-landing-page",
-  },
-  {
-    title: "CHIM CHIM- React, MUI social media UI",
-    cardImage: "assets/images/project-page/minesweeper.jpg",
-    description:
-      "Minesweeper Game built using python Object Oriented Programming.",
-    tagimg: "",
-    Previewlink: "https://csb-ypg4zn-1w1zi0rpn-tabassum2507.vercel.app/",
-    Githublink: "https://github.com/tabassum2507/MUI-react-page",
   },
   {
     title: "Movie Recommendation System",
