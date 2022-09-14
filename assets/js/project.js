@@ -63,6 +63,14 @@ const projects = [
     Githublink: "https://github.com/tabassum2507/MUI-react-page",
   },
   {
+    title: "Expense-Tracker",
+    cardImage: "assets/images/project-page/money.jpg",
+    description: "Built using Tensorflow.",
+    tagimg: "https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png",
+    Previewlink: "https://expense-tracker-rosy-iota.vercel.app/",
+    Githublink: "https://github.com/tabassum2507/React-Projects/tree/main/expensetracker",
+  },
+  {
     title: "Crypto-tracker",
     cardImage: "assets/images/project-page/crypto.png",
     description: "",
@@ -87,14 +95,7 @@ const projects = [
     Previewlink: "https://mochi-coffee-shop-landing-page11-2o1kmasz2-tabassum2507.vercel.app/",
     Githublink: "https://github.com/tabassum2507/mochi-coffee-shop-landing-page",
   },
-  {
-    title: "Movie Recommendation System",
-    cardImage: "assets/images/project-page/movie-recommendation.jpeg",
-    description: "Built using Tensorflow.",
-    tagimg: "https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png",
-    Previewlink: "",
-    Githublink: "",
-  },
+
   {
     title: "Music Recommendation Engine",
     cardImage: "assets/images/project-page/music.jpg",
