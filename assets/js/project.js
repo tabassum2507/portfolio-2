@@ -15,6 +15,15 @@ const projects = [
     Previewlink: "https://csb-ypg4zn-1w1zi0rpn-tabassum2507.vercel.app/",
     Githublink: "https://github.com/tabassum2507/MUI-react-page",
   },
+  {
+    title: "ColorPen- ReactJS",
+    cardImage: "assets/images/project-page/colorpen.jpg",
+    description:
+      "",
+    tagimg: "",
+    Previewlink: "https://color-generator-sage.vercel.app/",
+    Githublink: "https://github.com/tabassum2507/Color-Generator",
+  },
   
   {
     title: "Airbnb-clone",
