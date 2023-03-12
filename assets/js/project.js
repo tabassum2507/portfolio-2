@@ -5,30 +5,17 @@ const projectcards = document.querySelector(".projectcards");
 
 // Array of object for projects
 const projects = [
+  
   {
-    title: "YinRooms",
-    cardImage: "assets/images/project-page/yin.jpg",
-    description: "A Hotel Booking app built using React.",
-    tagimg: "https://camo.githubusercontent.com/888e388801f947dec7c3d843942c277af25fe2b1aed1821542c4e711f210312a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67",
-    Previewlink: "",
-    Githublink: "https://github.com/tabassum2507/YinRooms-booking-app",
-  },
-  {
-    title: "Bloggram",
-    cardImage: "assets/images/project-page/bloggarm.jpg",
-    description: "Bogging app",
+    title: "CHIM CHIM- React, MUI social media UI",
+    cardImage: "assets/images/project-page/chim.jpg",
+    description:
+      "",
     tagimg: "",
-    Previewlink: "",
-    Githublink: "https://github.com/tabassum2507/Bloggram",
+    Previewlink: "https://csb-ypg4zn-1w1zi0rpn-tabassum2507.vercel.app/",
+    Githublink: "https://github.com/tabassum2507/MUI-react-page",
   },
-  {
-    title: "Dictionary",
-    cardImage: "assets/images/project-page/dictionary.jpg",
-    description: "Dictionary.",
-    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "https://wordgram-dictionary.vercel.app/",
-    Githublink: "https://github.com/tabassum2507/wordgram-dictionary",
-  },
+  
   {
     title: "Airbnb-clone",
     cardImage: "assets/images/project-page/airbnb.jpg",
@@ -37,14 +24,7 @@ const projects = [
     Previewlink: "https://airbnb-clone11.vercel.app/",
     Githublink: "https://github.com/tabassum2507/airbnb-clone",
   },
-  {
-    title: "Pond Chat- React, Sass, firebase Texting app",
-    cardImage: "assets/images/project-page/pondchat.jpg",
-    description: "Built battery life calculator using Python.",
-    tagimg: "https://camo.githubusercontent.com/888e388801f947dec7c3d843942c277af25fe2b1aed1821542c4e711f210312a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f37363870782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67",
-    Previewlink: "",
-    Githublink: "https://github.com/tabassum2507/Chatapp",
-  },
+  
   {
     title: "Netflix-clone",
     cardImage: "assets/images/project-page/netflix.jpg",
@@ -53,15 +33,7 @@ const projects = [
     Previewlink: "https://netflix-clone-rho-opal.vercel.app/",
     Githublink: "https://github.com/tabassum2507/Netflix-clone",
   },
-  {
-    title: "CHIM CHIM- React, MUI social media UI",
-    cardImage: "assets/images/project-page/chim.jpg",
-    description:
-      "Minesweeper Game built using python Object Oriented Programming.",
-    tagimg: "",
-    Previewlink: "https://csb-ypg4zn-1w1zi0rpn-tabassum2507.vercel.app/",
-    Githublink: "https://github.com/tabassum2507/MUI-react-page",
-  },
+  
   {
     title: "Expense-Tracker",
     cardImage: "assets/images/project-page/money.jpg",
