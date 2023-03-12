@@ -5,6 +5,25 @@ const projectcards = document.querySelector(".projectcards");
 
 // Array of object for projects
 const projects = [
+  {
+    title: "MeStore- React, MUI social media UI",
+    cardImage: "assets/images/project-page/mestore.jpg",
+    description:
+      "",
+    tagimg: "",
+    Previewlink: "",
+    Githublink: "https://github.com/tabassum2507/MeStore-ecommerce",
+  },
+  {
+    title: "Blog- NextJS, Tailwind",
+    cardImage: "assets/images/project-page/blog.jpg",
+    description:
+      "",
+    tagimg: "",
+    Previewlink: "",
+    Githublink: "https://github.com/tabassum2507/blog-nextjs",
+  },
+  
   
   {
     title: "CHIM CHIM- React, MUI social media UI",
