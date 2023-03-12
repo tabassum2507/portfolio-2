@@ -206,7 +206,7 @@ document.addEventListener("DOMContentLoaded", showCards);
 //   }
   
 
-];
+//];
 
 const showCards3 = () => {
   let output = "";
