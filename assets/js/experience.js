@@ -12,13 +12,13 @@ const exp = [
      time: "(Oct, 2022 - Jan, 2023)",
      desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
    },
-//   {
-//     title: "Student Developer",
-//     cardImage: "assets/images/experience-page/gsoc.png",
-//     place: "Google Summer Of Code",
-//     time: "(Mar - Aug, 2019)",
-//     desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
-//   },
+  {
+    title: "Student FullStack Developer",
+    cardImage: "assets/images/experience-page/crio.png",
+    place: "Apprenticeship",
+     time: "(Feb, 2022 - Present)",
+     desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+   },
 //   {
 //     title: "Research Intern",
 //     cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
