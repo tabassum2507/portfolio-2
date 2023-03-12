@@ -43,6 +43,16 @@ const projects = [
     Previewlink: "https://color-generator-sage.vercel.app/",
     Githublink: "https://github.com/tabassum2507/Color-Generator",
   },
+  {
+    title: "CocktailDB- React",
+    cardImage: "assets/images/project-page/Cocktail.jpg",
+    description:
+      "",
+    tagimg: "",
+    Previewlink: "",
+    Githublink: "https://github.com/tabassum2507/cocktail-react-project",
+  },
+  
   
   {
     title: "Airbnb-clone",
